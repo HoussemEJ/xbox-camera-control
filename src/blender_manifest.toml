@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "xbox_camera_control"
+version = "1.0.0"
+name = "Xbox Camera Control"
+tagline = "Use your xbox controller to control scene camera"
+maintainer = "Houssemeddine Jebali"
+type = "add-on"
+
+blender_version_min = "4.4.0"
+platforms = ["windows-x64"]
+license = [
+  "SPDX:CC BY-NC-SA 4.0",
+]
